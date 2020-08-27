@@ -1,0 +1,6 @@
+ofxCv
+ofxGui
+ofxInkSim
+ofxOpenCv
+ofxVideoRecorder
+addons/ofxMoodMachine

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="final_project_susielau"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final_project_susielau">
+				<Option output="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/final_project_susielau" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 final_project_susielau"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final_project_susielau/fast">
+				<Option output="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/final_project_susielau" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 final_project_susielau/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/addons/ofxMoodMachine/example-moodmachine/src/ofApp.cpp">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/addons/ofxMoodMachine/src/ofxMoodMachine.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/copy.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/extrude.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/glsmap.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/glsmapint.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/glut.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/glutbitmap.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/glutf90.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/glutstroke.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/gutil.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/intersect.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/port.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/rot.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/segment.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/tube.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/tube_gc.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/A/Headers/vvector.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/copy.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/extrude.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/glsmap.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/glsmapint.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/glut.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/glutbitmap.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/glutf90.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/glutstroke.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/gutil.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/intersect.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/port.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/rot.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/segment.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/tube.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/tube_gc.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/bin/final-project-susielauDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Headers/vvector.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/src/Board.cpp">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/src/Board.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/src/main.cpp">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/src/ofApp.cpp">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/src/ofApp.h">
+			<Option target="final_project_susielau"/>
+		</Unit>
+		<Unit filename="/Users/SUE/Documents/of_v0.9.8_osx_release/apps/myApps/final-project-susielau/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
